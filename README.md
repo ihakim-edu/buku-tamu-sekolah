@@ -43,13 +43,10 @@ buku_tamu/
    - Simpan semua file ke dalam folder `htdocs` (untuk XAMPP)
    - Akses di browser melalui `http://localhost/buku_tamu`
 
-## 📷 Screenshot (Opsional)
-Tambahkan screenshot untuk tampilan form dan tabel.
 
 ## 📄 Lisensi
 
-Proyek ini bebas digunakan untuk keperluan edukasi dan pengembangan lebih lanjut.
+Proyek ini bebas digunakan untuk keperluan UTS Pemrograman WEB.
 
 ---
 
-Created with ❤️ by [Your Name or School Name]
